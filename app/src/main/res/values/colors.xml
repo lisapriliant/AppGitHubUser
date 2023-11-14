@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cream">#FFDCBF</color>
+    <color name="error">#FF0000</color>
+    <color name="primary">#FF49454F</color>
+    <color name="primaryDark">#E6E6E6</color>
+    <color name="fab">#735942</color>
+    <color name="fabDark">#000000</color>
+    <color name="cardView">#C5C5C5</color>
+    <color name="cardViewDark">#252525</color>
+    <color name="accent">#2E2E2E</color>
+    <color name="statusBar">#FF49454F</color>
+</resources>

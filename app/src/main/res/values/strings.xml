@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="copyright">© 2023 Lisa Aprilianti</string>
+    <string name="username">Username</string>
+    <string name="searchBar_hint">Search User</string>
+    <string name="detail_user">Detail User</string>
+    <string name="name">Name</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="total_followers">%d \nFollowers</string>
+    <string name="total_following">%d \nFollowing</string>
+    <string name="favorite">Favorite User</string>
+    <string name="add_favorite">Added to Favorite</string>
+    <string name="remove_favorite">Favorite Removed</string>
+    <string name="error_message">Failed to load data</string>
+    <string name="mode_setting">Mode Setting</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>

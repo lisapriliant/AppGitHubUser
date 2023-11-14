@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AppGitHubUser" parent="Theme.Material3.DayNight">
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="colorPrimary">@color/primaryDark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="cardViewStyle">@style/CardViewDark</item>
+        <item name="floatingActionButtonStyle">@color/fabDark</item>
+        <item name="android:statusBarColor">@color/statusBar</item>
+    </style>
+
+    <style name="CardViewDark" parent="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardViewDark</item>
+    </style>
+
+    <style name="Base.Theme.AppGitHubUser.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+</resources>
